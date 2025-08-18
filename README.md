@@ -24,7 +24,7 @@ This is a clone of the Obys Design Agency website, showcasing a modern and inter
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/obys-agency-clone.git
+   git clone https://github.com/ashu-tagore/obys-agency-clone.git
    ```
 
 2. Navigate to the project directory:
